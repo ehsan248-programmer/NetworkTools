@@ -1,5 +1,5 @@
 <p align="center">
-<img src="icon.png" width="128">
+<img src="icon1.png" width="128">
 </p>
 
 # Network Tools
@@ -94,6 +94,6 @@ Redistribution or modification without permission is prohibited.
 
 ## Author
 
-Developed by **Ehsan**
+Developed by **Ehsan.y.m**
 
 If you like this project, don't forget to ⭐ the repository.
