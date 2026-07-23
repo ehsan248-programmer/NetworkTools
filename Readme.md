@@ -35,15 +35,15 @@ A lightweight and portable network utility for Windows administrators, IT profes
 
 | Main Window | IP Calculator |
 |-------------|---------------|
-| ![](Screenshots/main.jpg) | ![](Screenshots/ipcalculator.jpg) |
+| ![](ScreenShots/main.jpg) | ![](ScreenShots/ipcalculator.jpg) |
 
 | Routing | Port Forwarding |
 |----------|-----------------|
-| ![](Screenshots/routing.jpg) | ![](Screenshots/portforward.jpg) |
+| ![](ScreenShots/routing.jpg) | ![](ScreenShots/portforward.jpg) |
 
 | Network Tools | Traceroute |
 |---------------|------------|
-| ![](Screenshots/networktools.jpg) | ![](Screenshots/tracing.jpg) |
+| ![](ScreenShots/networktools.jpg) | ![](ScreenShots/tracing.jpg) |
 
 ---
 
