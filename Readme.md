@@ -39,7 +39,7 @@ A lightweight and portable network utility for Windows administrators, IT profes
 
 | Routing | Port Forwarding |
 |----------|-----------------|
-| ![](ScreenShots/routing.jpg) | ![](ScreenShots/portforward.jpg) |
+| ![](ScreenShots/routing.jpg) | ![](ScreenShots/port_forward.jpg) |
 
 | Network Tools | Traceroute |
 |---------------|------------|
