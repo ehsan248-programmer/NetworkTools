@@ -35,15 +35,15 @@ A lightweight and portable network utility for Windows administrators, IT profes
 
 | Main Window | IP Calculator |
 |-------------|---------------|
-| ![](Screenshots/main.png) | ![](Screenshots/ipcalculator.png) |
+| ![](Screenshots/main.jpg) | ![](Screenshots/ipcalculator.jpg) |
 
 | Routing | Port Forwarding |
 |----------|-----------------|
-| ![](Screenshots/routing.png) | ![](Screenshots/portforward.png) |
+| ![](Screenshots/routing.jpg) | ![](Screenshots/portforward.jpg) |
 
 | Network Tools | Traceroute |
 |---------------|------------|
-| ![](Screenshots/networktools.png) | ![](Screenshots/tracing.png) |
+| ![](Screenshots/networktools.jpg) | ![](Screenshots/tracing.jpg) |
 
 ---
 
@@ -60,7 +60,7 @@ A lightweight and portable network utility for Windows administrators, IT profes
 
 1. Download the latest release.
 2. Extract the ZIP file.
-3. Run **NetworkTools.exe**.
+3. Run **NET_NETTOOLS_V1.0.exe**.
 
 No installation is required.
 
